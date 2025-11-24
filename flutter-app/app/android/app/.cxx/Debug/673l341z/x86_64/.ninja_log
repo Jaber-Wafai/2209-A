@@ -1,0 +1,103 @@
+# ninja log v5
+263	1352	7813812792667823	liboqs/src/CMakeFiles/oqs.dir/sig/sig.c.o	9e8120c33d138644
+453	1380	7813812792667823	liboqs/src/common/CMakeFiles/common.dir/sha3/sha3.c.o	1a644a2c501f4b83
+525	1403	7813812792527324	liboqs/src/common/CMakeFiles/common.dir/pqclean_shims/fips202x4.c.o	4285aa9b9a53121c
+211	1424	7813812792727833	liboqs/src/CMakeFiles/oqs.dir/kem/kem.c.o	27732fb8d40780c9
+394	1448	7813812792752971	liboqs/src/common/CMakeFiles/common.dir/sha2/sha2_impl.c.o	859d549777522ab4
+292	1469	7813812792773017	liboqs/src/common/CMakeFiles/common.dir/aes/aes_impl.c.o	413614f9609173c4
+370	1496	7813812792853311	liboqs/src/common/CMakeFiles/common.dir/aes/aes.c.o	b737725b27d03195
+468	1526	7813812792542410	liboqs/src/common/CMakeFiles/common.dir/sha3/sha3x4.c.o	4d4ac146e67046a0
+440	1546	7813812793098931	liboqs/src/common/CMakeFiles/common.dir/sha2/sha2.c.o	262473f44bec13e5
+513	1571	7813812792913363	liboqs/src/common/CMakeFiles/common.dir/rand/rand.c.o	678015edc90eb6e4
+501	1597	7813812793058919	liboqs/src/common/CMakeFiles/common.dir/sha3/xkcp_sha3.c.o	cb2197e0d4346530
+424	1621	7813812793199279	liboqs/src/common/CMakeFiles/common.dir/sha3/xkcp_sha3x4.c.o	cb83d0b83cc9d51d
+1357	1648	7813812795290796	liboqs/src/common/CMakeFiles/internal.dir/aes/aes.c.o	2ffcc4ce4fd7198f
+1425	1785	7813812795772124	liboqs/src/common/CMakeFiles/internal.dir/aes/aes_impl.c.o	3131e7ff087d3b6b
+1380	1993	7813812795706978	liboqs/src/common/CMakeFiles/common.dir/pqclean_shims/fips202.c.o	a6ba8526b3d3ec16
+1649	2024	7813812798786545	liboqs/src/common/CMakeFiles/internal.dir/sha3/sha3x4.c.o	f9281d9d8310e06
+1469	2052	7813812796263652	liboqs/src/common/CMakeFiles/internal.dir/sha3/sha3.c.o	4003dde2cf543ec9
+1504	2086	7813812797984595	liboqs/src/common/CMakeFiles/internal.dir/sha3/xkcp_sha3.c.o	66875c471e84a319
+281	2117	7813812798205152	liboqs/src/common/CMakeFiles/common.dir/aes/aes_c.c.o	a13a8368a0cc7d84
+1448	2156	7813812798881872	liboqs/src/common/CMakeFiles/common.dir/common.c.o	89192a2da72d4b65
+1527	2230	7813812799057363	liboqs/src/common/CMakeFiles/internal.dir/sha2/sha2.c.o	d0341669cd82cfec
+1621	2266	7813812799167797	liboqs/src/common/CMakeFiles/internal.dir/common.c.o	72c696cd6c9c296f
+2025	2292	7813812801774631	liboqs/src/common/sha3/xkcp_low/CMakeFiles/xkcp_low_keccakp_1600times4_serial.dir/KeccakP-1600times4/serial/KeccakP-1600-times4-on1.c.o	dbcf7e38918390d8
+1597	2319	7813812799649377	liboqs/src/common/CMakeFiles/internal.dir/sha2/sha2_impl.c.o	84729272fcee204f
+2053	2344	7813812802271306	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/sig_dilithium_2.c.o	ac6104798461c5b
+1572	2371	7813812800438865	liboqs/src/common/CMakeFiles/internal.dir/sha3/xkcp_sha3x4.c.o	9aca7556c5ef59d5
+2171	2396	7813812802993792	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/reduce.c.o	64774fb97bd1a7d0
+1403	2418	7813812801343228	liboqs/src/common/CMakeFiles/internal.dir/aes/aes_c.c.o	ca1f2fa179b02eae
+2231	2441	7813812803296157	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/rounding.c.o	93f8784be71dc127
+1830	2467	7813812801884996	liboqs/src/common/CMakeFiles/internal.dir/rand/rand_nist.c.o	f73c96e2f9791e59
+2089	2491	7813812804047846	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/ntt.c.o	60603d117a675ea1
+2266	2528	7813812804484306	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/polyvec.c.o	bad784d8fe9b0ae7
+2118	2554	7813812804514306	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/packing.c.o	53c48aa569cf4097
+2320	2687	7813812805622637	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/sign.c.o	8bfee59354e984fb
+2396	2851	7813812806807471	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/sig_dilithium_3.c.o	9d9fbc7e4491b08a
+2419	2898	7813812806852622	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/symmetric-shake.c.o	9d57561ae18451b9
+2492	2922	7813812807539949	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/reduce.c.o	2f3f49fe4b103dd5
+2292	2942	7813812807349575	liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/pqcrystals-dilithium_dilithium2_ref/poly.c.o	6d6ba59a4033eb0
+2371	2965	7813812806817480	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/ntt.c.o	9548a487ee55a445
+2469	2986	7813812807650294	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/polyvec.c.o	94f99689d2bc6dcc
+2529	3008	7813812808422194	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/sign.c.o	fce0500902dc753e
+2555	3032	7813812808131452	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/symmetric-shake.c.o	c862a27c39881d1e
+2345	3055	7813812808447370	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/poly.c.o	b314fc65ef47b642
+2688	3086	7813812808327040	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/rounding.c.o	68338ae37b5a0753
+2986	3130	7813812810548835	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/reduce.c.o	12cd60f70d060e62
+2443	3157	7813812809330247	liboqs/src/sig/dilithium/CMakeFiles/dilithium_3_ref.dir/pqcrystals-dilithium_dilithium3_ref/packing.c.o	684aaa8ae6bcf86f
+3008	3234	7813812811015076	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/rounding.c.o	7c36b48a5d0492e7
+2852	3270	7813812809636210	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/sig_dilithium_5.c.o	ee19ad749d9b65b2
+2922	3337	7813812811100283	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/polyvec.c.o	d1f95ba0ffcab282
+2899	3537	7813812811336220	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/ntt.c.o	ab2d62ad362b7af8
+3033	3589	7813812812244828	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/sign.c.o	e3baa39c8d95589f
+2943	3693	7813812812706167	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/packing.c.o	455f32e4037a4496
+3131	3735	7813812813344045	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/symmetric-shake.c.o	c6529c716643b43f
+2965	3778	7813812814022587	liboqs/src/sig/dilithium/CMakeFiles/dilithium_5_ref.dir/pqcrystals-dilithium_dilithium5_ref/poly.c.o	58178d574c07b978
+3271	3863	7813812815411714	liboqs/tests/CMakeFiles/test_sig.dir/test_helpers.c.o	5a6b567c933a2d5
+3056	3979	7813812815904029	liboqs/tests/CMakeFiles/test_hash.dir/test_hash.c.o	da912a910045f7a1
+3158	4014	7813812818157957	liboqs/tests/CMakeFiles/test_aes.dir/test_aes.c.o	77d5e24dd8e03d48
+3538	4043	7813812818147952	liboqs/tests/CMakeFiles/kat_sig.dir/test_helpers.c.o	d60eafdc9f589143
+3237	4110	7813812818243085	liboqs/tests/CMakeFiles/kat_sig.dir/kat_sig.c.o	b05dc301a06b99d
+3390	4151	7813812818986260	liboqs/tests/CMakeFiles/test_sig.dir/test_sig.c.o	de64663fa31e2c58
+3695	4185	7813812819688461	liboqs/tests/CMakeFiles/example_kem.dir/example_kem.c.o	f31b1f2c3b16af75
+3087	4213	7813812819492595	liboqs/tests/CMakeFiles/test_sha3.dir/test_sha3.c.o	38f1b49802f4deb9
+3737	4248	7813812819873002	liboqs/tests/CMakeFiles/test_kem.dir/test_helpers.c.o	f2b3d4b274dcc98
+3784	4274	7813812820639552	liboqs/tests/CMakeFiles/kat_kem.dir/test_helpers.c.o	86209116afd0601
+3865	4335	7813812822386305	liboqs/tests/CMakeFiles/test_kem.dir/test_kem.c.o	20da5ae4f2d0cf90
+3980	4390	7813812823022864	liboqs/tests/CMakeFiles/kat_kem.dir/kat_kem.c.o	42824898681c2d0c
+4152	4418	7813812823389445	liboqs/tests/CMakeFiles/example_sig.dir/example_sig.c.o	860b7e87684e0e60
+4045	4432	7813812823409435	liboqs/tests/CMakeFiles/test_kem_mem.dir/test_kem_mem.c.o	326dbc9483c4bed0
+3589	4445	7813812823579857	liboqs/tests/CMakeFiles/speed_common.dir/speed_common.c.o	2eca852a7955b8c7
+4015	4459	7813812823650032	liboqs/tests/CMakeFiles/speed_kem.dir/speed_kem.c.o	82f9da658f0908bd
+4117	4474	7813812823660086	liboqs/tests/CMakeFiles/test_kem_mem.dir/test_helpers.c.o	d3a3160bbfa6257
+4188	4489	7813812823975817	liboqs/tests/CMakeFiles/test_sig_mem.dir/test_sig_mem.c.o	eae5fc1c7e9801c8
+4214	4562	7813812824863211	liboqs/tests/CMakeFiles/speed_sig.dir/speed_sig.c.o	6dfd13d28567add9
+4249	4601	7813812825269402	liboqs/tests/CMakeFiles/vectors_kem.dir/vectors_kem.c.o	8d7a4948c1def277
+4275	4614	7813812825279405	liboqs/tests/CMakeFiles/vectors_sig.dir/vectors_sig.c.o	296812ccd7d88f7
+488	4813	7813812827410577	liboqs/src/common/CMakeFiles/common.dir/sha2/sha2_c.c.o	74db081d34a53be6
+1547	5155	7813812830840063	liboqs/src/common/CMakeFiles/internal.dir/sha2/sha2_c.c.o	2a7ccd5224f2e272
+1994	6344	7813812842752760	liboqs/src/common/sha3/xkcp_low/CMakeFiles/xkcp_low_keccakp_1600_plain64.dir/KeccakP-1600/plain-64bits/KeccakP-1600-opt64.c.o	66c385cfe8a088c8
+6352	6672	7813812845038760	liboqs/lib/liboqs-internal.a	9836d8fdd23c06b8
+6344	6742	7813812846708736	liboqs/lib/liboqs.a	5c599a7a77488094
+6750	7139	7813812850321963	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_aes	1fe2d835a364d6de
+6772	7150	7813812850637657	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/speed_common	563e2aa52cdc71b4
+6742	7160	7813812850311948	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_hash	a3cce355cfa2ca72
+6783	7160	7813812850697801	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_sha3	4d9a5d00a0d53c4e
+6763	7160	7813812850291887	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/example_kem	f189f699f9714a9
+6831	7161	7813812850567539	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/example_sig	52622be660a7dac8
+6792	7161	7813812850687787	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/kat_kem	3ec765620deb6aef
+6849	7161	7813812850567539	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_sig_mem	a3659498bbc0c766
+6812	7162	7813812850502344	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/speed_kem	11fe16c36f0da293
+6840	7162	7813812850812341	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_sig	afadd9b3f07caf8c
+6859	7163	7813812850607537	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/speed_sig	976c37ba4270894c
+6821	7163	7813812850803207	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_kem_mem	98e24af2396b1ec5
+6802	7163	7813812850775837	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/test_kem	95da73f7d0343347
+6756	7164	7813812850812341	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/kat_sig	43e5c712ebfbb7d2
+7150	7283	7813812852204806	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/vectors_sig	66495b331296b135
+7140	7284	7813812852204806	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/vectors_kem	37d87d5d613fc804
+7	8288	7813812862220247	CMakeFiles/dilithium.dir/base64.cpp.o	8b2d4dc3064ee2b2
+183	8292	7813812862107788	CMakeFiles/kyber.dir/kyber_native.cpp.o	8761044b8d3e19f8
+199	8293	7813812862210264	CMakeFiles/kyber.dir/base64.cpp.o	6f9e2b3bdef3c365
+54	8308	7813812862425838	CMakeFiles/dilithium.dir/dilithium_native.cpp.o	a70cb142966add40
+8294	8457	7813812863951490	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/libkyber.so	3c67fb7b1894867d
+8308	8457	7813812863951490	C:/Users/jaber/Desktop/Bitirme Projesi/baklawatiApp/app/build/app/intermediates/cxx/Debug/673l341z/obj/x86_64/libdilithium.so	7dd58772451ac452

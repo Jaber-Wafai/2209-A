@@ -1,0 +1,12 @@
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\CMakeLists.txt
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\.CMake\alg_support.cmake
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\.CMake\cmake_uninstall.cmake.in
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\.CMake\compiler_opts.cmake
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\CMakeLists.txt
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\src\CMakeLists.txt
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\src\common\CMakeLists.txt
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\src\common\sha3\xkcp_low\CMakeLists.txt
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\src\Config.cmake.in
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\src\oqsconfig.h.cmake
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\src\sig\dilithium\CMakeLists.txt
+C:\Users\jaber\Desktop\baklawatiApp\app\android\app\src\main\cpp\liboqs\tests\CMakeLists.txt

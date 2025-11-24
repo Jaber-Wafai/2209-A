@@ -1,0 +1,283 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./sig_dilithium_2.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/ntt.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/packing.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/poly.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/polyvec.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/reduce.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/rounding.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/sign.c.o"
+		},
+		{
+			"path" : "liboqs/src/sig/dilithium/CMakeFiles/dilithium_2_ref.dir/./pqcrystals-dilithium_dilithium2_ref/symmetric-shake.c.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_compile_options",
+			"include",
+			"target_compile_options",
+			"add_definitions",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"liboqs/src/sig/dilithium/CMakeLists.txt",
+			"liboqs/.CMake/compiler_opts.cmake",
+			"liboqs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 74,
+				"parent" : 2
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 77,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 104,
+				"parent" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -fvisibility=hidden"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wa,--noexecstack"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-O3"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fomit-frame-pointer"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-DDILITHIUM_MODE=2"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-DDILITHIUM_RANDOMIZED_SIGNING"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "OQS_COMPILE_SIG_DILITHIUM"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/Debug/5a3e5c3h/x86_64/liboqs/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/src/main/cpp/liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/src/main/cpp/liboqs/src/common/pqclean_shims"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/jaber/AppData/Local/Android/Sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"id" : "dilithium_2_ref::@aa51049a97a7703784c8",
+	"name" : "dilithium_2_ref",
+	"paths" : 
+	{
+		"build" : "liboqs/src/sig/dilithium",
+		"source" : "liboqs/src/sig/dilithium"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/sig_dilithium_2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/ntt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/packing.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/poly.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/polyvec.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/reduce.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/rounding.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/sign.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/sig/dilithium/pqcrystals-dilithium_dilithium2_ref/symmetric-shake.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

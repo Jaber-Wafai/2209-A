@@ -1,0 +1,120 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"liboqs/tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 201,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "oqs::@a3574687576518cb75fb"
+		},
+		{
+			"id" : "example_kem::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "speed_common::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "speed_kem::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_hash::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_sha3::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_aes::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "kat_kem::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_kem_mem::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_kem::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "example_sig::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_sig::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "test_sig_mem::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "speed_sig::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "kat_sig::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "vectors_sig::@95657b3d74ef673df12f"
+		},
+		{
+			"id" : "vectors_kem::@95657b3d74ef673df12f"
+		}
+	],
+	"id" : "run_tests::@95657b3d74ef673df12f",
+	"name" : "run_tests",
+	"paths" : 
+	{
+		"build" : "liboqs/tests",
+		"source" : "liboqs/tests"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/Debug/5a3e5c3h/x86_64/liboqs/tests/CMakeFiles/run_tests",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/Debug/5a3e5c3h/x86_64/liboqs/tests/CMakeFiles/run_tests.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

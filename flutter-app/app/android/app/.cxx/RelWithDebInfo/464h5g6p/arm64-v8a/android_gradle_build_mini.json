@@ -1,0 +1,191 @@
+{
+  "buildFiles": [
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\.CMake\\alg_support.cmake",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\.CMake\\cmake_uninstall.cmake.in",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\.CMake\\compiler_opts.cmake",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\CMakeLists.txt",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\src\\CMakeLists.txt",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\src\\common\\CMakeLists.txt",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\src\\common\\sha3\\xkcp_low\\CMakeLists.txt",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\src\\Config.cmake.in",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\src\\oqsconfig.h.cmake",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\src\\sig\\dilithium\\CMakeLists.txt",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\src\\main\\cpp\\liboqs\\tests\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\jaber\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\.cxx\\RelWithDebInfo\\464h5g6p\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\jaber\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\.cxx\\RelWithDebInfo\\464h5g6p\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "vectors_sig::@95657b3d74ef673df12f": {
+      "artifactName": "vectors_sig",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\vectors_sig",
+      "runtimeFiles": []
+    },
+    "uninstall::@e0a07cb4fe84454e3769": {
+      "artifactName": "uninstall",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "xkcp_low_keccakp_1600times4_serial::@3032a38d61fb21486367": {
+      "artifactName": "xkcp_low_keccakp_1600times4_serial",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "vectors_kem::@95657b3d74ef673df12f": {
+      "artifactName": "vectors_kem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\vectors_kem",
+      "runtimeFiles": []
+    },
+    "kat_sig::@95657b3d74ef673df12f": {
+      "artifactName": "kat_sig",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\kat_sig",
+      "runtimeFiles": []
+    },
+    "oqs-internal::@a3574687576518cb75fb": {
+      "artifactName": "oqs-internal",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\.cxx\\RelWithDebInfo\\464h5g6p\\arm64-v8a\\liboqs\\lib\\liboqs-internal.a",
+      "runtimeFiles": []
+    },
+    "dilithium_5_ref::@aa51049a97a7703784c8": {
+      "artifactName": "dilithium_5_ref",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "internal::@4afaa177c8b843d88b99": {
+      "artifactName": "internal",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "test_aes::@95657b3d74ef673df12f": {
+      "artifactName": "test_aes",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_aes",
+      "runtimeFiles": []
+    },
+    "dilithium_2_ref::@aa51049a97a7703784c8": {
+      "artifactName": "dilithium_2_ref",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "kat_kem::@95657b3d74ef673df12f": {
+      "artifactName": "kat_kem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\kat_kem",
+      "runtimeFiles": []
+    },
+    "run_tests::@95657b3d74ef673df12f": {
+      "artifactName": "run_tests",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "test_hash::@95657b3d74ef673df12f": {
+      "artifactName": "test_hash",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_hash",
+      "runtimeFiles": []
+    },
+    "example_kem::@95657b3d74ef673df12f": {
+      "artifactName": "example_kem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\example_kem",
+      "runtimeFiles": []
+    },
+    "speed_common::@95657b3d74ef673df12f": {
+      "artifactName": "speed_common",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\speed_common",
+      "runtimeFiles": []
+    },
+    "example_sig::@95657b3d74ef673df12f": {
+      "artifactName": "example_sig",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\example_sig",
+      "runtimeFiles": []
+    },
+    "common::@4afaa177c8b843d88b99": {
+      "artifactName": "common",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "test_sha3::@95657b3d74ef673df12f": {
+      "artifactName": "test_sha3",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_sha3",
+      "runtimeFiles": []
+    },
+    "dilithium_3_ref::@aa51049a97a7703784c8": {
+      "artifactName": "dilithium_3_ref",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "oqs::@a3574687576518cb75fb": {
+      "artifactName": "oqs",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\android\\app\\.cxx\\RelWithDebInfo\\464h5g6p\\arm64-v8a\\liboqs\\lib\\liboqs.a",
+      "runtimeFiles": []
+    },
+    "xkcp_low_keccakp_1600_plain64::@3032a38d61fb21486367": {
+      "artifactName": "xkcp_low_keccakp_1600_plain64",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "speed_sig::@95657b3d74ef673df12f": {
+      "artifactName": "speed_sig",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\speed_sig",
+      "runtimeFiles": []
+    },
+    "test_kem_mem::@95657b3d74ef673df12f": {
+      "artifactName": "test_kem_mem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_kem_mem",
+      "runtimeFiles": []
+    },
+    "test_kem::@95657b3d74ef673df12f": {
+      "artifactName": "test_kem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_kem",
+      "runtimeFiles": []
+    },
+    "test_sig::@95657b3d74ef673df12f": {
+      "artifactName": "test_sig",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_sig",
+      "runtimeFiles": []
+    },
+    "test_sig_mem::@95657b3d74ef673df12f": {
+      "artifactName": "test_sig_mem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\test_sig_mem",
+      "runtimeFiles": []
+    },
+    "speed_kem::@95657b3d74ef673df12f": {
+      "artifactName": "speed_kem",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\jaber\\Desktop\\baklawatiApp\\app\\build\\app\\intermediates\\cxx\\RelWithDebInfo\\464h5g6p\\obj\\arm64-v8a\\speed_kem",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"build" : "liboqs",
+					"childIndexes" : 
+					[
+						2,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-liboqs-RelWithDebInfo-011ef82b0b5cf5ea8bbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "liboqs",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "liboqs/src",
+					"childIndexes" : 
+					[
+						3,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-liboqs.src-RelWithDebInfo-3cbe0bcb4f8b651ad163.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "liboqs/src",
+					"targetIndexes" : 
+					[
+						11,
+						12
+					]
+				},
+				{
+					"build" : "liboqs/src/common",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-liboqs.src.common-RelWithDebInfo-65e1bd312e3e806a9fdf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "liboqs/src/common",
+					"targetIndexes" : 
+					[
+						0,
+						7
+					]
+				},
+				{
+					"build" : "liboqs/src/common/sha3/xkcp_low",
+					"jsonFile" : "directory-liboqs.src.common.sha3.xkcp_low-RelWithDebInfo-8812da0af9f268b2ce32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "liboqs/src/common/sha3/xkcp_low",
+					"targetIndexes" : 
+					[
+						27,
+						28
+					]
+				},
+				{
+					"build" : "liboqs/src/sig/dilithium",
+					"jsonFile" : "directory-liboqs.src.sig.dilithium-RelWithDebInfo-945b3d4e07552b633522.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "liboqs/src/sig/dilithium",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "liboqs/tests",
+					"jsonFile" : "directory-liboqs.tests-RelWithDebInfo-c3c9c95cb48d0172fd17.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "liboqs/tests",
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						8,
+						9,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						25,
+						26
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nativecrypto",
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "liboqs",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "common::@4afaa177c8b843d88b99",
+					"jsonFile" : "target-common-RelWithDebInfo-0b639fd3037694bcdb1d.json",
+					"name" : "common",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dilithium::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dilithium-RelWithDebInfo-890caea4da3ce8a65c9c.json",
+					"name" : "dilithium",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "dilithium_2_ref::@aa51049a97a7703784c8",
+					"jsonFile" : "target-dilithium_2_ref-RelWithDebInfo-c03467b3023b679b169c.json",
+					"name" : "dilithium_2_ref",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "dilithium_3_ref::@aa51049a97a7703784c8",
+					"jsonFile" : "target-dilithium_3_ref-RelWithDebInfo-4edea71f3c3246a39376.json",
+					"name" : "dilithium_3_ref",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "dilithium_5_ref::@aa51049a97a7703784c8",
+					"jsonFile" : "target-dilithium_5_ref-RelWithDebInfo-f2119d86eb22d5fc65b5.json",
+					"name" : "dilithium_5_ref",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "example_kem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-example_kem-RelWithDebInfo-8dbd7157ecf7827be25f.json",
+					"name" : "example_kem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "example_sig::@95657b3d74ef673df12f",
+					"jsonFile" : "target-example_sig-RelWithDebInfo-4d8efb1584e8482d1670.json",
+					"name" : "example_sig",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "internal::@4afaa177c8b843d88b99",
+					"jsonFile" : "target-internal-RelWithDebInfo-643aafe93da028e73553.json",
+					"name" : "internal",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "kat_kem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-kat_kem-RelWithDebInfo-eef0c06df3c8211e1694.json",
+					"name" : "kat_kem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "kat_sig::@95657b3d74ef673df12f",
+					"jsonFile" : "target-kat_sig-RelWithDebInfo-ed2f767ee189f15b7a5b.json",
+					"name" : "kat_sig",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kyber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kyber-RelWithDebInfo-bd058d6bf4e93f650d92.json",
+					"name" : "kyber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "oqs::@a3574687576518cb75fb",
+					"jsonFile" : "target-oqs-RelWithDebInfo-f012442d6c1e03a44f79.json",
+					"name" : "oqs",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "oqs-internal::@a3574687576518cb75fb",
+					"jsonFile" : "target-oqs-internal-RelWithDebInfo-7095eddaa6e236d79713.json",
+					"name" : "oqs-internal",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "run_tests::@95657b3d74ef673df12f",
+					"jsonFile" : "target-run_tests-RelWithDebInfo-01c0fa7c6a19f0316113.json",
+					"name" : "run_tests",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "speed_common::@95657b3d74ef673df12f",
+					"jsonFile" : "target-speed_common-RelWithDebInfo-77a6122eb5a07aa5e8ec.json",
+					"name" : "speed_common",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "speed_kem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-speed_kem-RelWithDebInfo-de1be5e2123dee0703d1.json",
+					"name" : "speed_kem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "speed_sig::@95657b3d74ef673df12f",
+					"jsonFile" : "target-speed_sig-RelWithDebInfo-d44c58acd07d7ad36187.json",
+					"name" : "speed_sig",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_aes::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_aes-RelWithDebInfo-9a0648423ab10596cd2c.json",
+					"name" : "test_aes",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_hash::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_hash-RelWithDebInfo-11e58a134c0e4050bdea.json",
+					"name" : "test_hash",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_kem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_kem-RelWithDebInfo-515e51e7531d40436f80.json",
+					"name" : "test_kem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_kem_mem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_kem_mem-RelWithDebInfo-694acb84ca5f9cfa4898.json",
+					"name" : "test_kem_mem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_sha3::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_sha3-RelWithDebInfo-e359d3027b3dec0c8546.json",
+					"name" : "test_sha3",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_sig::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_sig-RelWithDebInfo-6a9c39227cbf2bd8b217.json",
+					"name" : "test_sig",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "test_sig_mem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-test_sig_mem-RelWithDebInfo-61a24e9c085deff939e7.json",
+					"name" : "test_sig_mem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@e0a07cb4fe84454e3769",
+					"jsonFile" : "target-uninstall-RelWithDebInfo-169c69b64e13d24106d8.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "vectors_kem::@95657b3d74ef673df12f",
+					"jsonFile" : "target-vectors_kem-RelWithDebInfo-577048e6c9e3cd3b2c53.json",
+					"name" : "vectors_kem",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "vectors_sig::@95657b3d74ef673df12f",
+					"jsonFile" : "target-vectors_sig-RelWithDebInfo-f71ef9233ed1e7d3ef93.json",
+					"name" : "vectors_sig",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "xkcp_low_keccakp_1600_plain64::@3032a38d61fb21486367",
+					"jsonFile" : "target-xkcp_low_keccakp_1600_plain64-RelWithDebInfo-01911328d2622c53f69f.json",
+					"name" : "xkcp_low_keccakp_1600_plain64",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "xkcp_low_keccakp_1600times4_serial::@3032a38d61fb21486367",
+					"jsonFile" : "target-xkcp_low_keccakp_1600times4_serial-RelWithDebInfo-b74e813b435fe9cea9c1.json",
+					"name" : "xkcp_low_keccakp_1600times4_serial",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/RelWithDebInfo/464h5g6p/x86_64",
+		"source" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

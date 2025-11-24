@@ -1,0 +1,374 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./aes/aes_impl.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./aes/aes_c.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./aes/aes.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha2/sha2_impl.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha2/sha2_c.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha2/sha2.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha3/xkcp_sha3.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha3/xkcp_sha3x4.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha3/sha3.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./sha3/sha3x4.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./common.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./pqclean_shims/fips202.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./pqclean_shims/fips202x4.c.o"
+		},
+		{
+			"path" : "liboqs/src/common/CMakeFiles/common.dir/./rand/rand.c.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_compile_options",
+			"include",
+			"target_link_libraries",
+			"add_definitions",
+			"target_compile_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"liboqs/src/common/CMakeLists.txt",
+			"liboqs/.CMake/compiler_opts.cmake",
+			"liboqs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 74,
+				"parent" : 2
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 111,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 77,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 126,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 104,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -fvisibility=hidden"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wa,--noexecstack"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-O3"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fomit-frame-pointer"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-Wbad-function-cast"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-Wcast-qual"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wnarrowing"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Wconversion"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-pthread"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "OQS_COMPILE_SIG_DILITHIUM"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "OQS_HAVE_MEMALIGN"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "OQS_HAVE_POSIX_MEMALIGN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 15,
+					"path" : "C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/RelWithDebInfo/464h5g6p/x86_64/liboqs/include"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/jaber/AppData/Local/Android/Sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"id" : "common::@4afaa177c8b843d88b99",
+	"name" : "common",
+	"paths" : 
+	{
+		"build" : "liboqs/src/common",
+		"source" : "liboqs/src/common"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/aes/aes_impl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/aes/aes_c.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/aes/aes.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha2/sha2_impl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha2/sha2_c.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha2/sha2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha3/xkcp_sha3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha3/xkcp_sha3x4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha3/sha3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/sha3/sha3x4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/common.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/pqclean_shims/fips202.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/pqclean_shims/fips202x4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "liboqs/src/common/rand/rand.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

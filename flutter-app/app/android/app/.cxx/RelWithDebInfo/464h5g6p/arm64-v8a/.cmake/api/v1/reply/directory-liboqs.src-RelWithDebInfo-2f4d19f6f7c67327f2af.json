@@ -1,0 +1,128 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"liboqs/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 171,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 177,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 196,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/liboqs",
+			"paths" : 
+			[
+				"C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/RelWithDebInfo/464h5g6p/arm64-v8a/liboqs/src/liboqsConfig.cmake",
+				"C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/RelWithDebInfo/464h5g6p/arm64-v8a/liboqs/src/liboqsConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/RelWithDebInfo/464h5g6p/arm64-v8a/liboqs/src/liboqs.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"liboqs/lib/liboqs.a"
+			],
+			"targetId" : "oqs::@a3574687576518cb75fb",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/liboqs",
+			"exportName" : "liboqsTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "oqs::@a3574687576518cb75fb",
+					"index" : 11
+				}
+			],
+			"paths" : 
+			[
+				"liboqs/src/CMakeFiles/Export/lib/cmake/liboqs/liboqsTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "include/oqs",
+			"paths" : 
+			[
+				"liboqs/src/oqs.h",
+				"liboqs/src/common/aes/aes_ops.h",
+				"liboqs/src/common/common.h",
+				"liboqs/src/common/rand/rand.h",
+				"liboqs/src/common/sha2/sha2_ops.h",
+				"liboqs/src/common/sha3/sha3_ops.h",
+				"liboqs/src/common/sha3/sha3x4_ops.h",
+				"liboqs/src/kem/kem.h",
+				"liboqs/src/sig/sig.h",
+				"liboqs/src/sig/dilithium/sig_dilithium.h",
+				"C:/Users/jaber/Desktop/baklawatiApp/app/android/app/.cxx/RelWithDebInfo/464h5g6p/arm64-v8a/liboqs/include/oqs/oqsconfig.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "liboqs/src",
+		"source" : "liboqs/src"
+	}
+}

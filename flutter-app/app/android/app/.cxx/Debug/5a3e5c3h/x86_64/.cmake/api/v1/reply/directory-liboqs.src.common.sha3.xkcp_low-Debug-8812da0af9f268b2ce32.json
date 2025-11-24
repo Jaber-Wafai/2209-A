@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "liboqs/src/common/sha3/xkcp_low",
+		"source" : "liboqs/src/common/sha3/xkcp_low"
+	}
+}
